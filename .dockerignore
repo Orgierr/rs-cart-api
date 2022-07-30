@@ -1,0 +1,13 @@
+# created by npm i
+node_modules
+# created on build stage
+dist
+
+# not need in prod
+test
+
+
+
+
+
+
